@@ -1,0 +1,10 @@
+Postovani,
+
+U prilogu je excel fajl iz kog cete uzimati podatke, ucitati ih u python izvuci 
+prosecnu vrednost za kolone calories, protein, fat i carbs. 
+Od tih srednjih vrednosti napraviti novi dataframe i ispisati csv file od toga.
+Takodje kreirati bazu fooddata i tabelu food i popuniti je uz pomoc
+ pythona sa kolonama fooditem(varchar(40), primary key), calories(integer), 
+protein(integer), fat(integer), carbs(integer), fibre(float).
+Popuniti tabelu sa podacima prethodno ucitanim iz excel fajla.
+Srecan rad :)
